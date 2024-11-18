@@ -6,4 +6,4 @@ These 3 codes simulates the return rate predicted by 3 methods: the exact time-d
 
 
 
-The FSWT Hamiltonian is defined in the code, please use it for future follow up works or re-checks
+The FSWT Hamiltonian is defined in the file "Xiao_FSWT_TimeEvo_finite2SiteTDVP_FSWT.py", please use it for future follow up works or re-checks.
